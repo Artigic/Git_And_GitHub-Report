@@ -4,7 +4,7 @@ This repository contains my Git and GitHub report prepared for the Web Developme
 
 ## Contents
 
-- Git-and-GitHub-Report.docx
+- Final-Git-and-GitHub-Report.docx
 
 ## Author
 
